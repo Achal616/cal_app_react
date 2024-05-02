@@ -1,0 +1,32 @@
+
+ 
+ .bt-Name{
+    display:flex;
+    flex-direction: row;
+    width: 200px;
+    height: 50px;
+    justify-content: space-around;
+    text-align: center;
+    margin-left:100px;
+}
+
+.op-Name{
+    display:flex;
+    flex-direction: row;
+    width: 200px;
+    height: 70px;
+    justify-content: space-around;
+    text-align: center;
+    margin-left:100px;
+}
+
+#dd{
+    
+    left: 200px;
+    background-color: rgb(211, 200, 200);
+    height:200px;
+    width: 400px;
+    text-align: center;
+    
+    
+}
